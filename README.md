@@ -6,6 +6,7 @@ Consumer to Consumer, ou Consumidor para Consumidor, comumente citado apenas com
 <ul>
 <li>Possibilidade de atuar como vendedor e consumidor</li>
 <li>Metodo de pesquisa de anuncios</li>
+<li>...</li>
 </ul>
 
 
