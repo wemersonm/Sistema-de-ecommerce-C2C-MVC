@@ -9,11 +9,11 @@ Consumer to Consumer, ou Consumidor para Consumidor, comumente citado apenas com
 <li>...</li>
 </ul>
 
-
-
 <h3>o que é MVC</h3>
 E um padrão de arquitetura de software responsável por contribuir na otimização da velocidade entre as requisições feitas pelo comando dos usuários. A arquitetura MVC é dividida em três componentes essenciais: <strong>Model, Controller e View</strong>.
-<h3></h3>
+
+<h3>Tecnologias usadas(*)</h3>
+<ul></ul>  
 
 
 
