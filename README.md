@@ -14,8 +14,8 @@ E um padrão de arquitetura de software responsável por contribuir na otimizaç
 
 <h3>Tecnologias usadas(*)</h3>
 <ul>
-  <li>PHP</li>
-  <li>JS+Bootstrap</li>
+  <li>PHP8 + MySQL</li>
+  <li>JS + Bootstrap</li>
 </ul>  
 
 
