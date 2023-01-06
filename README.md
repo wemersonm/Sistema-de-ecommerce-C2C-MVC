@@ -34,5 +34,5 @@ E um padrão de arquitetura de software responsável por contribuir na otimizaç
 
 <p>Ao acessar o sistema, os usuários precisam se cadastrar e criar uma conta, informando seus dados, como nome, email e senha. Depois de se cadastrar, os usuários podem entrar no sistema usando suas credenciais e começar o sistema.</p>
 
-<p>desenvolvido apenas para fins de aprendizado</p>
+<p>**desenvolvido apenas para fins de aprendizado**</p>
 
